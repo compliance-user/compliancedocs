@@ -1,0 +1,4 @@
+site_name: Compliance
+site_url: https://compliance-docs.com/
+theme:
+  name: readthedocs
